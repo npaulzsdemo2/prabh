@@ -1,0 +1,26 @@
+b smdlp_get_engine_from_dicts_expr
+b smdict_config_dlp_engine
+b eval_rpn
+b parse_expr
+
+
+IssuingNetwork,CardNumber American Express
+340842720656291
+379754767025914
+375641988564868
+348448281702797
+342703958517449
+371315653944705
+342386129759122
+
+SSN Number 
+234-34-5026
+242-42-4620
+345-22-5678
+548-98-9743
+205-70-0003
+436-88-7865
+477-44-4494
+
+
+(D63.S > 3 AND D62.S > 2)
